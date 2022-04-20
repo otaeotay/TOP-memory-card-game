@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TOP-memory-card-game/static/css/main.b2705915.css",
+    "main.js": "/TOP-memory-card-game/static/js/main.b84e2af0.js",
+    "index.html": "/TOP-memory-card-game/index.html",
+    "main.b2705915.css.map": "/TOP-memory-card-game/static/css/main.b2705915.css.map",
+    "main.b84e2af0.js.map": "/TOP-memory-card-game/static/js/main.b84e2af0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2705915.css",
+    "static/js/main.b84e2af0.js"
+  ]
+}
