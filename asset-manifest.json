@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/TOP-memory-card-game/static/css/main.58678878.css",
-    "main.js": "/TOP-memory-card-game/static/js/main.7050eed2.js",
-    "static/media/github.svg": "/TOP-memory-card-game/static/media/github.5d8e618fb6fb1db1e89a1850d60bdad0.svg",
-    "index.html": "/TOP-memory-card-game/index.html",
-    "main.58678878.css.map": "/TOP-memory-card-game/static/css/main.58678878.css.map",
-    "main.7050eed2.js.map": "/TOP-memory-card-game/static/js/main.7050eed2.js.map"
+    "main.css": "/memory-card-game/static/css/main.1532772b.css",
+    "main.js": "/memory-card-game/static/js/main.8f6001d4.js",
+    "static/media/loss.wav": "/memory-card-game/static/media/loss.9ea56cbd4f6af09b2bc7.wav",
+    "static/media/win.wav": "/memory-card-game/static/media/win.d57c8562a108bffaee2b.wav",
+    "static/media/correct.wav": "/memory-card-game/static/media/correct.91940e3f5c0dacec1c6c.wav",
+    "static/media/three.svg": "/memory-card-game/static/media/three.9ea131e8eaaef0affc96dfbebc0e267e.svg",
+    "static/media/two.svg": "/memory-card-game/static/media/two.a93948807026eef33ac2b4b23ac314c1.svg",
+    "static/media/github.svg": "/memory-card-game/static/media/github.5d8e618fb6fb1db1e89a1850d60bdad0.svg",
+    "index.html": "/memory-card-game/index.html",
+    "static/media/four.svg": "/memory-card-game/static/media/four.1078ad6e1f40a4b43348e2fdf105814d.svg",
+    "static/media/one.svg": "/memory-card-game/static/media/one.ddabf35a5d8a32f35263d8190a57a8b5.svg",
+    "main.1532772b.css.map": "/memory-card-game/static/css/main.1532772b.css.map",
+    "main.8f6001d4.js.map": "/memory-card-game/static/js/main.8f6001d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.58678878.css",
-    "static/js/main.7050eed2.js"
+    "static/css/main.1532772b.css",
+    "static/js/main.8f6001d4.js"
   ]
 }
